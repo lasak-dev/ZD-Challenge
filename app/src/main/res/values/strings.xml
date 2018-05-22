@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ZeDeliveryChallenge</string>
+
+    <string name="location_use_location">Usar a localização</string>
+    <string name="location_address_hint">Informar endereço</string>
+    <string name="location_waiting">Aguardando localização</string>
+    <string name="location_confirm">Confirmar localização</string>
+    <string name="location_address_error">Ops, ocorreu um erro ao buscar o endereço :(</string>
+    <string name="location_deny">Preciso do seu endereço para buscar a opção de entrega mais rápida!</string>
+    <string name="location_block">Acesse as configurações do seu dispositivo para permitir nosso app a utilizar sua localização</string>
+    <string name="location_progress_title">Por favor aguarde</string>
+    <string name="location_progress_message">Estamos buscando a melhor opção de entrega para você!</string>
+    <string name="location_progress_error">Ops, ocorreu um erro ao buscar a opcão de entrega mais próxima :(</string>
+
+    <string name="general_accept">Entendi</string>
+    <string name="general_cancel">Cancelar</string>
+    <string name="general_retry">Tentar novamente</string>
+
+    <string name="products_search">Buscar produtos</string>
+    <string name="products_error">Ops, ocorreu um erro ao buscar os produtos</string>
+
+    <string name="product_details_title">Detalhes</string>
+    <string name="product_details_description">Descrição</string>
+</resources>
