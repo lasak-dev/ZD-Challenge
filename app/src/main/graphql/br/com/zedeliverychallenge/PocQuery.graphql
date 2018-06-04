@@ -1,0 +1,8 @@
+query pocQuery($now: DateTime!, $algorithm: String!, $lat: String!, $lng: String!) {
+  pocSearch(now: $now, algorithm: $algorithm, lat: $lat, long: $lng) {
+    id
+    status
+    tradingName
+    officialName
+  }
+}
